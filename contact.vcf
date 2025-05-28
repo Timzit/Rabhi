@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rabhi;Ahmed;;;
+FN:Rabhi Ahmed
+ORG:Sarl STC CO
+TITLE:Technical Director
+TEL;TYPE=WORK,VOICE:+213770908540
+EMAIL:a.rabhi@stcco-dz.com
+ADR;TYPE=WORK:;;79 Lots, Les vergers street;Bir Mourad Rais;;Algeria
+URL:http://www.stcco-dz.com/
+NOTE:Your partner in control and measurement\nBrochure: https://heyzine.com/flip-book/ef385e138a.html
+PHOTO;TYPE=JPEG;VALUE=URI:Photo%20Badge.jpg
+LOGO;TYPE=JPEG;VALUE=URI:téléchargement.png
+END:VCARD
